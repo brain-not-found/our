@@ -1,0 +1,38 @@
+html, body {
+   height: 15% ;
+}
+
+body {
+    color: #bfbfbf;
+    background: white;
+    font-family: 'Futura-Medium', 'Futura', 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+.titreBillet {
+    margin-bottom : 0px;
+}
+
+#global {
+    min-height: 90%;  /* Voir commentaire sur html et body plus haut */
+    background: #808080;
+    width: 60%;
+    margin: auto;	/* Permet de centrer la div */
+    text-align: justify;
+    padding: 5px 20px;
+}
+
+#contenu {
+    margin-bottom : 30px;
+}
+
+#titreBlog, #piedBlog {
+    text-align: center;
+}
+
+#titreReponses {
+    font-size : 50%;
+}
